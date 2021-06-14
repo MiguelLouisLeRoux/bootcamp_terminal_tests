@@ -4,7 +4,7 @@
   "description": "Bootcamp terminal unit tests",
   "main": "countAllFromTown.js",
   "directories": {
-    "test": "tests"
+    "test": "test"
   },
   "scripts": {
     "test": "mocha"
